@@ -9,8 +9,8 @@ import pytz
 from datetime import timedelta
 
 
-TELEGRAM_BOT_TOKEN = "6434632974:AAGazjNh6We4jOdm1a6vtEcoauUCGQ_36NM"
-TELEGRAM_CHAT_ID = "1962036926 "
+TELEGRAM_BOT_TOKEN = " "
+TELEGRAM_CHAT_ID = " "
 INDIAN_TIMEZONE = "Asia/Kolkata"
 UTC_TIMEZONE = "UTC"
 
